@@ -4,3 +4,6 @@ body {
     color: #232323;
     margin: 0 auto;
 }
+.links {
+    float: right;
+}

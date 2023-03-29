@@ -1,3 +1,10 @@
 p {
     justify-content: center;
 }
+.links {
+    float: right;
+}
+span {
+    color: #eeeeee;
+    float: right;
+}
