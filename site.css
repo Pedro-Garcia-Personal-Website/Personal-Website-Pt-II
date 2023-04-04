@@ -29,6 +29,7 @@ p {
 }
 span {
     float: right;
+    background-color: none;
 }
 footer {
     box-sizing: border-box;

@@ -9,6 +9,10 @@
     margin: 2em auto;
     padding: 1em;
 }
+span {
+  color: #eeeeee;
+  float: right;
+}
 p {
     color: rgb(255, 255, 255);
 }
