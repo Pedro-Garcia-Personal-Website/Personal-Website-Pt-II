@@ -55,3 +55,10 @@ footer {
   header, footer {
     background: #f8f8f8;
   }
+  @media screen and (max-width:300px) {
+    .first-query {
+      background-color: aquamarine;
+
+    }
+
+  }
