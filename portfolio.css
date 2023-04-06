@@ -57,8 +57,15 @@ footer {
   }
   @media screen and (max-width:300px) {
     .first-query {
-      background-color: aquamarine;
+      background-color: rgb(255, 235, 177);
 
     }
 
   }
+  @media screen and (max-width:1500px) {
+    .second-query {
+      background-color: rgb(224, 235, 255);
+    }
+
+  }
+    
